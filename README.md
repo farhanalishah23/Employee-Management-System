@@ -97,10 +97,3 @@ Backend API 👉 http://localhost:5000
 
 This project is open-source and free to use.
 
----
-
-## 🙋‍♂️ Author
-
-**Farhan Ali Shah**  
-Connect with me on [LinkedIn](https://linkedin.com/in/your-profile)  
-GitHub: [your-username](https://github.com/your-username)
