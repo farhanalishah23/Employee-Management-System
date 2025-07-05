@@ -37,8 +37,8 @@ A full-stack Employee Management System built using the **MERN Stack** (MongoDB,
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/employee-management-mern.git
-cd employee-management-mern
+git clone https://github.com/farhanalishah23/Employee-Management-System.git
+cd Employee-Management-System
 ```
 
 ### 2️⃣ Install frontend dependencies
